@@ -1,0 +1,12 @@
+ 
+ crawl  et son indexation   
+ 
+ tester l'indexation de son site avec la commande dans google site: url du site 
+ exemple   site:www.amazon.fr
+ 
+ 
+ * ajout du fichier sitemap.xml  qui est le plan du site a distination des rebots de google 
+ 
+ exemple : https://ledenicheur.fr/sitemap.xml     https://www.agriconomie.com/sitemap.xml
+ 
+ creation de sitemap   avec xenu   ou    https://www.xml-sitemaps.com/
