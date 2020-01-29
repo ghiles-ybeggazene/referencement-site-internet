@@ -1,4 +1,6 @@
  
+ voir google search console
+ 
  crawl  et son indexation   
  
  tester l'indexation de son site avec la commande dans google site: url du site 
@@ -10,3 +12,9 @@
  exemple : https://ledenicheur.fr/sitemap.xml     https://www.agriconomie.com/sitemap.xml
  
  creation de sitemap   avec xenu   ou    https://www.xml-sitemaps.com/
+ 
+ 
+ * bloquer des acces des rebots google avec le fichier   robots.txt     disallow  /repertoire 
+    exemple  https://ledenicheur.fr/robots.txt    https://www.amazon.fr/robots.txt
+    
+    désindexer   on peut utiliser la balise <meta name="googlebot"  content="noindex" >  dans la page 
