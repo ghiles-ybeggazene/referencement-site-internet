@@ -18,3 +18,17 @@
     exemple  https://ledenicheur.fr/robots.txt    https://www.amazon.fr/robots.txt
     
     désindexer   on peut utiliser la balise <meta name="googlebot"  content="noindex" >  dans la page 
+    
+    
+    les URL  les ulrs faut qu ils seront lisible 
+                  dans les urls faut separation avec des - par avec des _ 
+                  
+  *  heararchise le site avec  des balise Hn    h1  h2  h3
+  
+  
+  *le temps de chargement 
+        je conseille GTmetrix pour voir les performance de votre site  https://gtmetrix.com/
+         PageSpeed Insight       https://developers.google.com/speed/pagespeed/insights/?hl=fr  
+         
+         
+   * le referencemrnt international on utilise les hreflang"..." et siter les differents sites 
